@@ -1,0 +1,10 @@
+T001,Payment failed,Payment,High,Customer reports money deducted after failed payment.,Pending
+T002,Cannot login,Authentication,High,Customer cannot access account after password reset.,Open
+T003,Late notification,Notifications,Medium,Customer received delivery notification several hours late.,Open
+T004,Feature request,UI/UX,Low,Customer requested dark mode.,Closed
+T005,Order missing,Orders,High,Customer cannot see a recently placed order.,Investigating
+T006,Slow app,Performance,Medium,Customer reports slow performance on older phone.,Open
+T007,Refund question,Payments,Medium,Customer wants an update on a refund.,Pending
+T008,Recommendation issue,Recommendations,Low,Customer says recommendations are repetitive.,Open
+T009,Password reset,Authentication,High,Reset email is not being received.,Investigating
+T010,Search issue,Search,Medium,Customer cannot find items using filters.,Open

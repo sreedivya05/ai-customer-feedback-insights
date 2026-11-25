@@ -1,0 +1,10 @@
+B001,2026-01-05,Checkout,Checkout freezes after clicking Pay,High,Open
+B002,2026-01-07,Authentication,Password reset link does not work,High,Investigating
+B003,2026-01-09,Payments,Payment failure followed by duplicate debit,Critical,Open
+B004,2026-01-12,Authentication,Session expires unexpectedly,Medium,In Progress
+B005,2026-01-13,Notifications,Order confirmation email missing,High,Open
+B006,2026-01-16,Notifications,Push notification delayed,High,Investigating
+B007,2026-01-18,Performance,App crashes during image upload,High,In Progress
+B008,2026-01-22,Performance,Slow loading on older Android devices,Medium,Open
+B009,2026-01-25,Search,Filter results sometimes disappear,Medium,Investigating
+B010,2026-01-27,Orders,Order history page shows blank state,Medium,Open

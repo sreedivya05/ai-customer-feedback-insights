@@ -1,0 +1,20 @@
+F001,2026-01-05,Mobile App,Checkout takes too long and freezes sometimes.,Performance,High,Bug
+F002,2026-01-06,Mobile App,Please add dark mode. I use the app at night.,UI/UX,Medium,Feature Request
+F003,2026-01-07,Web,I could not reset my password.,Authentication,High,Bug
+F004,2026-01-08,Mobile App,The recommendations are very useful.,Recommendations,Low,Positive
+F005,2026-01-09,Web,Payment failed twice but money was deducted.,Payments,High,Bug
+F006,2026-01-10,Mobile App,I want more vegetarian meal options.,Content,Medium,Feature Request
+F007,2026-01-11,Web,The support team solved my issue quickly.,Support,Low,Positive
+F008,2026-01-12,Mobile App,The app crashes when uploading a photo.,Performance,High,Bug
+F009,2026-01-13,Web,Order confirmation email never arrived.,Notifications,High,Bug
+F010,2026-01-14,Mobile App,Search results are difficult to filter.,Search,Medium,Feature Request
+F011,2026-01-15,Web,The page loads quickly now.,Performance,Low,Positive
+F012,2026-01-16,Mobile App,I keep getting logged out.,Authentication,Medium,Bug
+F013,2026-01-17,Web,Can you add Apple Pay?,Payments,Medium,Feature Request
+F014,2026-01-18,Mobile App,The onboarding instructions are confusing.,Onboarding,Medium,UX Issue
+F015,2026-01-19,Web,I love the simple checkout flow.,Checkout,Low,Positive
+F016,2026-01-20,Mobile App,Notifications arrive several hours late.,Notifications,High,Bug
+F017,2026-01-21,Web,Please allow users to export their order history.,Orders,Medium,Feature Request
+F018,2026-01-22,Mobile App,The app is slow on older phones.,Performance,Medium,Bug
+F019,2026-01-23,Web,Support took three days to reply.,Support,Medium,Complaint
+F020,2026-01-24,Mobile App,The new interface is much easier to use.,UI/UX,Low,Positive
